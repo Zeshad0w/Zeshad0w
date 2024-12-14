@@ -36,5 +36,5 @@ Hi! I'm passionate about computer science and mathematics.
 
 - **Discord**: [1shadowed](https://discord.com)
 - **Email**: [administrateurdubled@proton.me](mailto:YourEmail@example.com)
-- **LinkedIn**: [YourProfile](https://www.linkedin.com)
+- **LinkedIn**: [MyProfile](https://www.linkedin.com)
 
