@@ -34,6 +34,7 @@ Hi! I'm passionate about computer science and mathematics.
 
 ## 📫 Contact Me
 
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
+- **Discord**: [1shadowed](https://discord.com)
+- **Email**: [administrateurdubled@proton.me](mailto:YourEmail@example.com)
 - **LinkedIn**: [YourProfile](https://www.linkedin.com)
 
