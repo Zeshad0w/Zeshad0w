@@ -12,7 +12,7 @@ Hi! I'm passionate about computer science and mathematics.
 ## 📂 My Projects
 
 ### Ongoing Projects
-- **LST**: Local network communication software, including messaging and file sharing.
+- **Unity Game**: Development of a 2D game.
 
 ### Completed or Paused Projects
 - **Unity Game**: Development of a 2D game.
